@@ -10,3 +10,6 @@ Originally made in the context of bingo for the annual uOttawa/Carleton panda ga
 
 Uses tkinter python standard module to create labels in a type of grid 
 Further info on functions: https://effbot.org/tkinterbook/grid.htm 
+
+NOTE:
+You need to have the files with your info in the same repo as the bingo file. No need to type them in as .txt
