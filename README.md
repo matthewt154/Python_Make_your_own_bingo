@@ -3,7 +3,7 @@ A python program that allows you to create a bingo board automatically and pseud
 
 The following improvements could be implemented 
 -Could format bingo board (see function formatBingo)
--Can round to nearet square root of number of squares (that way you can have free squares)
+-Can round to nearest square root of number of squares (that way you can have free squares)
 -Better graphics
 
 Originally made in the context of bingo for the annual uOttawa/Carleton panda game
